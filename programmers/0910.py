@@ -1,4 +1,4 @@
-
+#
 def solution(n, edge):
     answer = 0
     conn= [ [ 0 for i in range(n+1) ] for i in range(n+1) ]

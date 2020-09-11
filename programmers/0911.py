@@ -1,5 +1,5 @@
 def solution(tri):
-
+#
 
 
     answer=0

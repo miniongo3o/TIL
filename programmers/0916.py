@@ -1,22 +1,22 @@
-def solution(pri, loc):
-    ans=[]
-    li=[ [idx,i] for idx,i in enumerate(pri)]
+def solution(n, results):
+    answer = 0
+    win = {x: set() for x in range(1, n + 1)}
+    lose = {x: set() for x in range(1, n + 1)}
+    for winner, loser in results:
+        win[winner].add(loser)
+        lose[loser].add(winner)
 
-    while len(li)!=0:
-        mx=max(pri)
-        tmp=li.pop(0)
-        if mx==tmp[1]:
-            ans.append(tmp[0])
-            pri[tmp[0]]=0
-        else:
-            li.append(tmp)
-
-    answer=ans.index(loc)+1
-
-
+    for i in range(1,n+1):
+        for winner in lose[i]:
+            win[winner].update(win[i])
+        for loser in win[i]:
+            lose[loser].update(lose[i])
+    print(lose)
+    print(win)
+    for i in range(1,n+1):
+        if len(win[i])+len(win[i])==n-1:
+            answer+=1
 
     return answer
 
-
-print("answer is ",solution([2,1,3,2],2))
-print("answer is ",solution([1, 1, 9, 1, 1, 1]	,0))
+solution(5,[[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]]	)

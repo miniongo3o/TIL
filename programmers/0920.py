@@ -31,7 +31,7 @@ def cooling(y,temp):
         pass
 
 
-
+##
 
     return 1
 h,w,t=input().split()

@@ -28,12 +28,22 @@ def thunder(y,x,board,n,m):
 
     if x<m-2 and y<n-1:
         li.append(board[y][x]+board[y][x+1]+board[y+1][x+1]+board[y+1][x+2])
-    if x<m-2 and y>0:
-        li.append(board[y][x] + board[y][x+1] + board[y-1][x+1] + board[y-1][x+2])
-    if y<n-2 and x<m-1:
-        li.append(board[y][x] + board[y+1][x] + board[y+1][x+1] + board[y+2][x+1])
+    if x>0 and y<n-2:
+        li.append(board[y][x]+board[y+1][x]+board[y+1][x-1]+board[y+2][x-1])
+    if x>1 and y>0:
+        li.append(board[y][x]+board[y][x-1]+board[y-1][x-1]+board[y-1][x-2])
     if x<m-1 and y>1:
-        li.append(board[y][x] + board[y-1][x] + board[y-1][x+1] + board[y-2][x+1])
+        li.append(board[y][x]+board[y-1][x]+board[y-1][x+1]+board[y-2][x+1])
+
+
+    if x<m-2 and y>0:
+        li.append(board[y][x] + board[y][x+1] + board[y - 1][x + 1] + board[y-1][x+2])
+    if y<n-2 and x<m-1:
+        li.append(board[y][x] + board[y+1][x] + board[y+1][x + 1] + board[y+2][x + 1])
+    if x>1 and y<n-1:
+        li.append(board[y][x] + board[y][x-1] + board[y+1][x-1] + board[y+1][x-2])
+    if y>1 and x>0 :
+        li.append(board[y][x] + board[y-1][x] + board[y - 1][x - 1] + board[y - 2][x - 1])
 
     if len(li)==0:
         return 0

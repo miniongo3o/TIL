@@ -20,3 +20,4 @@ def solution(n):
         answer += int(i) * (3 ** k)
         k -= 1
     return answer
+""""""

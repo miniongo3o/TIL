@@ -1,3 +1,4 @@
+# 프로그래머스 스킬트리
 def solution(skill, skill_trees):
     answer = 0
     for i in skill_trees:
@@ -5,7 +6,6 @@ def solution(skill, skill_trees):
         for j in i:
             if j in skill:
                 temp += j
-        print(temp)
         if temp in skill:
             cnt=0
             for i in range(len(temp)):

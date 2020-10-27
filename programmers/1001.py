@@ -1,3 +1,4 @@
+# 프로그래머스 올바른 괄호
 def solution(s):
     answer = True
 

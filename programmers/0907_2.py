@@ -1,3 +1,4 @@
+# 프로그래머스 알고리즘 - 더 맵게
 import heapq
 def solution(sco, K):
     answer = 0

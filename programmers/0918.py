@@ -1,3 +1,4 @@
+# 프로그래머스 H-index
 def solution(cit):
     answer=0
     cit.sort()

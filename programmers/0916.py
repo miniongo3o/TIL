@@ -1,3 +1,4 @@
+# 프로그래머스 프린터
 def solution(pri, loc):
     ans=[]
     # answer는 'loc'번째 문서가 출력되는 순서이므로, idx,i로 묶어서 처리.

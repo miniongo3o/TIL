@@ -1,5 +1,6 @@
+# 프로그래머스 정수 삼각형
 def solution(tri):
-#
+
 
 
     answer=0

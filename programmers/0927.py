@@ -1,3 +1,4 @@
+# 백준 감시카메라
 y,x=map(int,input().split())
 
 # 1 : 상하/좌우

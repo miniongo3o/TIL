@@ -1,3 +1,4 @@
+# 프로그래머스 순위
 def solution(n, results):
     answer = 0
     win = {x: set() for x in range(1, n + 1)}

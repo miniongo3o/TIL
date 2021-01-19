@@ -1,13 +1,3 @@
-import java.util.Arrays;
-
-public class algo_0119 {
-	public static void main(String[] args) {
-		Solution newsol=new Solution();
-		int[] pri= {1,2,3,2,3};
-		System.out.println(Arrays.toString(newsol.solution(pri)));
-	}
-
-}
 class Solution {
     public int[] solution(int[] pri) {
         int[] answer = new int[pri.length];

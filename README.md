@@ -1,14 +1,4 @@
 # Today I Learned
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
 
 * **혼자**
 * 단체
@@ -17,13 +7,16 @@
 
 * 자바 자료형, 입출력
 
-## 0201
-
-* BOJ_17478 재귀함수가 뭔가요
-* BOJ_1244 스위치 켜고 끄기
-* SWEA_1859 백만장자 프로젝트
-* SWEA_1926 간단한 369 게임
-* SWEA_2007 패턴 마디의 길이
+<details>
+  <summary>0201</summary>
+  
+  ## Heading
+  1. BOJ_17478 재귀함수가 뭔가요
+  2. BOJ_1244 스위치 켜고 끄기
+  3. SWEA_1859 백만장자 프로젝트
+  4. SWEA_1926 간단한 369 게임
+  5. SWEA_2007 패턴 마디의 길이
+</details>
 
 
 ## 0201

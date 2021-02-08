@@ -3,14 +3,16 @@
 * **혼자**
 * 단체
 
-## 0125~0130
+<details>
+  <summary>0125~0130</summary>
+  ## 0125~0130
+  1. 자바 자료형, 입출력
+</details>
 
-* 자바 자료형, 입출력
 
 <details>
   <summary>0201</summary>
-  
-  ## Heading
+  ## 0201
   1. BOJ_17478 재귀함수가 뭔가요
   2. BOJ_1244 스위치 켜고 끄기
   3. SWEA_1859 백만장자 프로젝트
@@ -18,56 +20,69 @@
   5. SWEA_2007 패턴 마디의 길이
 </details>
 
+<details>
+  <summary>0202</summary>
+  ## 0202
+  1. SWEA_1208 배열과 정렬
+  2. SWEA_2005 파스칼 삼각형
+  3. SWEA_1954 달팽이 숫자
+  4. SWEA_1210 Ladder1
+  5. SWEA_2001 파리퇴치
+  6. SWEA_2007 패턴 맞추기
+</details>
 
-## 0201
+<details>
+  <summary>0203</summary>
+  ## 0203
+  1. SWEA_1873 배틀필드
+  2. SWEA_2805 농작물 수확하기
+  3. SWEA_1989 초심자의 회문 검사
+  4. SWEA_1986 지그재그 숫자
+  5. SWEAW_1984 중간 평균값 구하기
+</details>
 
-* SWEA_1208 배열과 정렬
-* SWEA_2005 파스칼 삼각형
-* SWEA_1954 달팽이 숫자
-* SWEA_1210 Ladder1
-* SWEA_2001 파리퇴치
-* SWEA_2007 패턴 맞추기
+<details>
+  <summary>0204</summary>
+  ## 0204
+  1. SWEA_1218 괄호 짝짓기
+  2. SWEA_1225 암호생성기
+  3. BOJ_2493 탑
+  4.  BOJ_5432 막대자르기
+</details>
 
+<details>
+  <summary>0205</summary>
+  ## 0205
+  1. SWEA 1861 정사각형 방
+  2. SWEA_3499 퍼펙트 셔플
+  3. BOJ_2231 분해합
+  4. SWEA_2309 백설공주와 난장이
+</details>
 
+<details>
+  <summary>0206</summary>
+  ## 0206
+  1. BOJ_15650 N과M(1)
+  2. BOJ_15651 N과M(2)
+</details>
 
-## 0203
+<details>
+  <summary>0207</summary>
+  ## 0207
+  1. <b>SWEA_1961 숫자배열회전</b>
+  2. <b>SWEA_1966 숫자를 정렬하자</b>
+  3. <b>SWEA_1970 쉬운 거스름돈</b>
+  4. <b>SWEA_1974 스도쿠 검증</b>
+  5. <b>SWEA_1976 사각 덧셈</b>
+  6. <b>SWEA_1983 조교의 성적 매기기</b>
+  7. BOJ_15654 N과M(5)
+</details>
 
-* SWEA_1873 배틀필드
-* SWEA_2805 농작물 수확하기
-* SWEA_1989 초심자의 회문 검사
-* SWEA_1986 지그재그 숫자
-* SWEAW_1984 중간 평균값 구하기
-
-
-
-## 0204
-
-* SWEA_1218 괄호 짝짓기
-* SWEA_1225 암호생성기
-* BOJ_2493 탑
-* BOJ_5432 막대자르기
-
-## 0205
-* SWEA 1861 정사각형 방
-* SWEA_3499 퍼펙트 셔플
-* BOJ_2231 분해합
-* SWEA_2309 백설공주와 난장이
-
-## 0206
-* BOJ_15650 N과M(1)
-* BOJ_15651 N과M(2)
-
-## 0207
-* BOJ_15654 N과M(5)
-* **SWEA_1961 숫자배열회전** 
-* **SWEA_1966 숫자를 정렬하자**
-* **SWEA_1970 쉬운 거스름돈**
-* **SWEA_1974 스도쿠 검증**
-* **SWEA_1976 사각 덧셈**
-* **SWEA_1983 조교의 성적 매기기**
-
-## 0208
-* SWEA_1940_가랏RC카
-* SWEA_5215_햄버거다이어트
-* SWEA_9229_한빈이와SpotMart
-* **SWEA_1228_암호문1**
+<details>
+  <summary>0208</summary>
+  ## 0208
+  1. SWEA_1940_가랏RC카
+  2. SWEA_5215_햄버거다이어트
+  3. SWEA_9229_한빈이와SpotMart
+  4. <b>SWEA_1228_암호문1</b>
+</details>

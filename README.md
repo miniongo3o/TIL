@@ -1,7 +1,8 @@
 # Today I Learned
+<details>
 * **혼자**
 * 단체
-
+</details>
 ## 0125~0130
 
 * 자바 자료형, 입출력

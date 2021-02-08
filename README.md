@@ -1,7 +1,9 @@
 # Today I Learned
 <details>
-* **혼자**
+   <summary>분류</summary>
+* <b>혼자</b>
 * 단체
+
 </details>
 ## 0125~0130
 

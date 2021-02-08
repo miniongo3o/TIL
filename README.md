@@ -2,12 +2,31 @@
 
 * **혼자**
 * 단체
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 <details>
   <summary>0125~0130</summary>
   ## Heading
   1. 자바 자료형, 입출력
-    * 123
 </details>
 
 

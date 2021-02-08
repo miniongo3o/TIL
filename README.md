@@ -5,7 +5,7 @@
 
 <details>
   <summary>0125~0130</summary>
-  
+
   ## 0125~0130
   1. 자바 자료형, 입출력
 </details>
@@ -13,7 +13,7 @@
 
 <details>
   <summary>0201</summary>
-  
+
   ## 0201
   1. BOJ_17478 재귀함수가 뭔가요
   2. BOJ_1244 스위치 켜고 끄기
@@ -24,7 +24,7 @@
 
 <details>
   <summary>0202</summary>
-  
+
   ## 0202
   1. SWEA_1208 배열과 정렬
   2. SWEA_2005 파스칼 삼각형
@@ -36,7 +36,7 @@
 
 <details>
   <summary>0203</summary>
-  
+
   ## 0203
   1. SWEA_1873 배틀필드
   2. SWEA_2805 농작물 수확하기
@@ -47,7 +47,7 @@
 
 <details>
   <summary>0204</summary>
-  
+
   ## 0204
   1. SWEA_1218 괄호 짝짓기
   2. SWEA_1225 암호생성기
@@ -57,7 +57,7 @@
 
 <details>
   <summary>0205</summary>
-  
+
   ## 0205
   1. SWEA 1861 정사각형 방
   2. SWEA_3499 퍼펙트 셔플
@@ -67,7 +67,7 @@
 
 <details>
   <summary>0206</summary>
-  
+
   ## 0206
   1. BOJ_15650 N과M(1)
   2. BOJ_15651 N과M(2)
@@ -75,7 +75,7 @@
 
 <details>
   <summary>0207</summary>
-  
+
   ## 0207
   1. <b>SWEA_1961 숫자배열회전</b>
   2. <b>SWEA_1966 숫자를 정렬하자</b>
@@ -88,11 +88,18 @@
 
 <details>
   <summary>0208</summary>
-  
+
   ## 0208
   1. SWEA_1940_가랏RC카
+
   2. SWEA_5215_햄버거다이어트
+
   3. SWEA_9229_한빈이와SpotMart
+
   4. <b>SWEA_1228_암호문1</b>
+
   5. <b>SWEA_1204_최빈수구하기</b>
-</details>
+
+  6. <b>SWEA_1284_수도요금경쟁</b>
+
+  </details>

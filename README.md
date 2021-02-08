@@ -13,18 +13,8 @@
 </details>
 
 <details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-
-<details>
   <summary>0125~0130</summary>
+  
   ## Heading
   1. 자바 자료형, 입출력
 </details>
@@ -33,6 +23,7 @@
 <details>
   <summary>0201</summary>
   ## 0201
+  
   1. BOJ_17478 재귀함수가 뭔가요
   2. BOJ_1244 스위치 켜고 끄기
   3. SWEA_1859 백만장자 프로젝트

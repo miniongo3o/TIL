@@ -6,7 +6,7 @@
 <details>
   <summary>0125~0130</summary>
   
-  ## Heading
+  ## 0125~0130
   1. 자바 자료형, 입출력
 </details>
 

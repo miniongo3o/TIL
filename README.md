@@ -238,16 +238,22 @@
   </details>
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 73d99e8481180b263f62c3f07dd5f146fc378bee
 <details>
   <summary>0219</summary>
 
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73d99e8481180b263f62c3f07dd5f146fc378bee
   ## 0219
 
 1. SWEA_3234_준환이의양팔저울(미완)
@@ -256,3 +262,18 @@
 
   </details>
 
+<<<<<<< HEAD
+=======
+<details>
+  <summary>0220</summary>
+
+
+
+
+  ## 0220
+
+1. SWEA_10580_전봇대.java
+
+
+  </details>
+>>>>>>> 73d99e8481180b263f62c3f07dd5f146fc378bee

@@ -240,5 +240,29 @@
   </details>
 
 
+<details>
+  <summary>0219</summary>
 
-SWEA_10580_전봇대.java
+
+
+
+  ## 0219
+
+1. SWEA_3234_준환이의양팔저울(미완)
+2. SWEA_모의 요리사
+
+
+  </details>
+
+<details>
+  <summary>0220</summary>
+
+
+
+
+  ## 0220
+
+1. SWEA_10580_전봇대.java
+
+
+  </details>

@@ -32,7 +32,7 @@
   4. SWEA_1210 Ladder1
   5. SWEA_2001 파리퇴치
   6. SWEA_2007 패턴 맞추기
-</details>
+</details> 
 
 <details>
   <summary>0203</summary>

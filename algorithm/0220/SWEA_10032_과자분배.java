@@ -1,4 +1,4 @@
-package com.ssafy;
+package SWEA;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,8 +15,14 @@ public class SWEA_10032_과자분배 {
 			int a=Integer.parseInt(str[0]);
 			int b=Integer.parseInt(str[1]);
 			int result=a%b;
+            if(result!=0){
+                result=1;
+            }
+			// 과자의수보다 사람의 수가 많을때는 a%bㅀ 해결할 수 없음
+			//
 			sb.append("#"+t+" "+result+"\n");
 		}
+	    sb.setLength(sb.length()-1);
 		System.out.println(sb);
 	}
 }

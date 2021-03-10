@@ -1,6 +1,6 @@
 # Today I Learned
 
-* **혼자** 
+* **혼자**
 * 단체
 
 <details>
